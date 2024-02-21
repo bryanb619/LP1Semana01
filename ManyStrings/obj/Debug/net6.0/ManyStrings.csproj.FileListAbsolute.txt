@@ -1,0 +1,15 @@
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\bin\Debug\net6.0\ManyStrings.exe
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\bin\Debug\net6.0\ManyStrings.deps.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\bin\Debug\net6.0\ManyStrings.runtimeconfig.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\bin\Debug\net6.0\ManyStrings.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\bin\Debug\net6.0\ManyStrings.pdb
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.AssemblyInfoInputs.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.AssemblyInfo.cs
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.csproj.CoreCompileInputs.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.sourcelink.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\refint\ManyStrings.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.pdb
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.genruntimeconfig.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ref\ManyStrings.dll
