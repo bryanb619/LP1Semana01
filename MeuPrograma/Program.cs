@@ -6,7 +6,12 @@ namespace MeuPrograma
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // hello world instruction
+            Console.WriteLine("Hello World!");
+            // Bye world instruction
+            Console.WriteLine("Bye world”");
+
+            
         }
     }
 }
