@@ -5,7 +5,8 @@ namespace VariousTypes
     class Program
     {
         /// <summary>
-        ///  Displays in console various integral types
+        ///  Displays in console various variables such as  
+        /// integral types, real and bool.
         /// 
         /// </summary>
         /// <param name="args"></param>
@@ -41,7 +42,7 @@ namespace VariousTypes
             Console.WriteLine(sb);
             Console.WriteLine(b);
             Console.WriteLine(c);
-            // ----------------------------
+            // -------------------------------------------------------------
 
             // 5
 
@@ -58,22 +59,28 @@ namespace VariousTypes
 
             // 8 Variaveis de tipo real 
 
+            // float
             float gravity = -9.8f; 
 
+            // double
             double height = 1.65;
 
+            // decimal
             decimal z = 3.1415m; 
 
             Console.WriteLine
             ($"My height is {height}, earth gravity is {gravity} and z = {z}");
 
-            
+            // -----------------------------------------------------------
 
+            // 11
+            // 11 Variaveis de tipo bool
+            bool detected = false;
 
+            bool connection = true;
 
-            
-
-
+            Console.WriteLine
+            ($" Server was: {detected} and conection status is: {connection}");
         }
     }
 }
