@@ -56,7 +56,20 @@ namespace VariousTypes
             Console.WriteLine(star); 
 
 
+            // 8 Variaveis de tipo real 
+
+            float gravity = -9.8f; 
+
+            double height = 1.65;
+
+            decimal z = 3.1415m; 
+
+            Console.WriteLine
+            ($"My height is {height}, earth gravity is {gravity} and z = {z}");
+
             
+
+
 
             
 
