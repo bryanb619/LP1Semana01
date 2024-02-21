@@ -34,9 +34,24 @@ namespace ManyStrings
             Console.WriteLine($"{x} + {y} = {x+y}");
 
 
+            // 6
 
+            // 1 -
+            double xx =  0.12345;
+            int ii = 19; 
 
+            // 2 - 
+            // 2 decimal houses
+            Console.WriteLine(xx.ToString("F2"));
 
+            // percentage with 1 decimal house
+            Console.WriteLine($"{xx:F1}%");
+
+            // 3 - hexadecimal
+            Console.WriteLine(ii.ToString("X"));
+
+            // currency
+            Console.WriteLine(ii.ToString("C"));
 
         }
     }
