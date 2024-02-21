@@ -11,6 +11,9 @@ namespace VariousTypes
         /// <param name="args"></param>
         private static void Main(string[] args)
         {
+
+            // 2
+
             // integer
             int i = 10; 
             // unassigned integer
@@ -38,6 +41,24 @@ namespace VariousTypes
             Console.WriteLine(sb);
             Console.WriteLine(b);
             Console.WriteLine(c);
+            // ----------------------------
+
+            // 5
+
+            // heart emoji
+            char heart = '\u2764'; 
+            // display emoji when supported by console
+            Console.WriteLine(heart);  
+
+            // star emoji
+            char star = '\u2605';
+            // display emoji when supported by console
+            Console.WriteLine(star); 
+
+
+            
+
+            
 
 
         }
