@@ -1,0 +1,15 @@
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\bin\Debug\net6.0\VariousTypes.exe
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\bin\Debug\net6.0\VariousTypes.deps.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\bin\Debug\net6.0\VariousTypes.runtimeconfig.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\bin\Debug\net6.0\VariousTypes.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\bin\Debug\net6.0\VariousTypes.pdb
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\obj\Debug\net6.0\VariousTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\obj\Debug\net6.0\VariousTypes.AssemblyInfoInputs.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\obj\Debug\net6.0\VariousTypes.AssemblyInfo.cs
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\obj\Debug\net6.0\VariousTypes.csproj.CoreCompileInputs.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\obj\Debug\net6.0\VariousTypes.sourcelink.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\obj\Debug\net6.0\VariousTypes.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\obj\Debug\net6.0\refint\VariousTypes.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\obj\Debug\net6.0\VariousTypes.pdb
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\obj\Debug\net6.0\VariousTypes.genruntimeconfig.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\VariousTypes\obj\Debug\net6.0\ref\VariousTypes.dll
