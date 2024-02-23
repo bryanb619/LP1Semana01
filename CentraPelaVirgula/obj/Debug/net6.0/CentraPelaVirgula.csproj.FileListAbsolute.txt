@@ -1,0 +1,15 @@
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\bin\Debug\net6.0\CentraPelaVirgula.exe
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\bin\Debug\net6.0\CentraPelaVirgula.deps.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\bin\Debug\net6.0\CentraPelaVirgula.runtimeconfig.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\bin\Debug\net6.0\CentraPelaVirgula.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\bin\Debug\net6.0\CentraPelaVirgula.pdb
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\obj\Debug\net6.0\CentraPelaVirgula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\obj\Debug\net6.0\CentraPelaVirgula.AssemblyInfoInputs.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\obj\Debug\net6.0\CentraPelaVirgula.AssemblyInfo.cs
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\obj\Debug\net6.0\CentraPelaVirgula.csproj.CoreCompileInputs.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\obj\Debug\net6.0\CentraPelaVirgula.sourcelink.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\obj\Debug\net6.0\CentraPelaVirgula.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\obj\Debug\net6.0\refint\CentraPelaVirgula.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\obj\Debug\net6.0\CentraPelaVirgula.pdb
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\obj\Debug\net6.0\CentraPelaVirgula.genruntimeconfig.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\CentraPelaVirgula\obj\Debug\net6.0\ref\CentraPelaVirgula.dll

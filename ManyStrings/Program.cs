@@ -45,7 +45,7 @@ namespace ManyStrings
             Console.WriteLine(xx.ToString("F2"));
 
             // percentage with 1 decimal house
-            Console.WriteLine($"{xx:F1}%");
+            Console.WriteLine($"{xx:p1}");
 
             // 3 - hexadecimal
             Console.WriteLine(ii.ToString("X"));

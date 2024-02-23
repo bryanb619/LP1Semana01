@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousTypes", "VariousType
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyStrings", "ManyStrings\ManyStrings.csproj", "{B5294BD0-9DCA-487E-BBB5-49BC3C35A87E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentraPelaVirgula", "CentraPelaVirgula\CentraPelaVirgula.csproj", "{181966D5-CB91-46B0-B5D5-861CD4C13E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskForInput", "AskForInput\AskForInput.csproj", "{F3DBB6FB-09CF-48E4-913B-C562F231FDEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{B5294BD0-9DCA-487E-BBB5-49BC3C35A87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5294BD0-9DCA-487E-BBB5-49BC3C35A87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5294BD0-9DCA-487E-BBB5-49BC3C35A87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181966D5-CB91-46B0-B5D5-861CD4C13E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181966D5-CB91-46B0-B5D5-861CD4C13E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181966D5-CB91-46B0-B5D5-861CD4C13E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181966D5-CB91-46B0-B5D5-861CD4C13E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3DBB6FB-09CF-48E4-913B-C562F231FDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DBB6FB-09CF-48E4-913B-C562F231FDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DBB6FB-09CF-48E4-913B-C562F231FDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DBB6FB-09CF-48E4-913B-C562F231FDEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
