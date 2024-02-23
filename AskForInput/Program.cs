@@ -4,8 +4,6 @@ namespace AskForInput
 {
     class Program
     {
-  
-   
         /// <summary>
         ///  Simple program thas asks for an integer 
         /// annd a real number, converts them to int and float
