@@ -3,14 +3,14 @@
 namespace VariousTypes
 {
     /// <summary>
-    /// Basic programs that outputs many types of variables
+    /// Basic programs that outputs the value of various types of variables
     /// </summary>
     class Program
     {
         /// <summary>
-        ///  Displays in console various variables values such as  integer, 
+        ///  Displays in console various variables values such as integer, char 
         ///  real and bool types while also using interpolation to out-
-        ///  put the values of the variables.
+        ///  put the values of the variables except for the char variables
         /// </summary>
         /// <param name="args">Not used</param>
         private static void Main(string[] args)
@@ -39,6 +39,7 @@ namespace VariousTypes
 
             // 5
 
+            // char type variables with unicode values
             // heart emoji
             char heart = '\u2764'; 
             // display emoji when supported by console
