@@ -3,40 +3,41 @@ using System.Globalization;
 
 namespace CentraPelaVirgula
 {
+    /// <summary>
+    /// Basic program, reads 4 numbers and outputs the numbers 
+    /// with 2 decimal places
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// Requests 4 real numbers from the user
+        /// converts each number to a float inserted by the user
+        /// outputs the numbers with 2 decimal places (F2) while also
+        /// right aligned 6 spaces
+        /// </summary>
+        /// <param name="args">Not used</param>
         private static void Main(string[] args)
         {
             // set the culture to invariant
-            // reformarts , to . 
+            // reformats , to . 
             CultureInfo.DefaultThreadCurrentCulture 
             = CultureInfo.InvariantCulture;
 
-            // ask user 
+            // ask user for 4 real numbers
             Console.WriteLine("Insere 4 números reais");
 
-            // readlines of the 4 numbers
+            // read lines of the 4 numbers and convert to float
             float a = float.Parse(Console.ReadLine());
             float b = float.Parse(Console.ReadLine());
             float c = float.Parse(Console.ReadLine());
             float d = float.Parse(Console.ReadLine());
 
-
-            //string fomated = string.Format
-            //("{0:F2}\n{1:F2}\n{2:F2}\n{3:F2}", a, b, c, d);
-
-            //Console.WriteLine(fomated);
-            // print the numbers to the console
-            //Console.WriteLine($"  {a:F2}\n  {b:F2}\n  {c:F2}\n  {d:F2}");
-
-            Console.WriteLine($"{a,6:F2}");
-            Console.WriteLine($"{b,6:F2}");
-            Console.WriteLine($"{c,6:F2}");
-            Console.WriteLine($"{d,6:F2}");
-
-
-
-
+            /*
+            Outputs each number with 2 decimal places using (F2) formatting
+            Aligns each number with 6 positions to the right
+            \n is used to enter new line
+            */
+            Console.WriteLine($"{a,6:F2} \n{b,6:F2} \n{c,6:F2} \n{d,6:F2}");
 
         }
     }

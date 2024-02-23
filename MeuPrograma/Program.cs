@@ -8,11 +8,12 @@ namespace MeuPrograma
     /// </summary>
     class Program
     {
-
         /// <summary> 
-        ///  Outputs two messages to the console
+        /// Outputs two messages to the console
+        /// Message 1: outputs Hello World!
+        /// Message 2: outputs Bye world
         /// </summary>
-        /// <param name="args"></param>
+        /// <param name="args">Not used</param>
         private static void Main(string[] args)
         {
             // hello world instruction

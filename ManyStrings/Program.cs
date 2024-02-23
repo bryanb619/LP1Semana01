@@ -2,8 +2,17 @@
 
 namespace ManyStrings
 {
+
+    /// <summary>
+    ///  Basic programs, tests strings with some escape keys, concatenation, 
+    ///  interpolation and formatting
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args">Not used</param>
         private static void Main(string[] args)
         {
             // 4 Exercício
@@ -14,7 +23,7 @@ namespace ManyStrings
             // testing escape keys and unicode
             string someString = "\r This \t symbol is: \u03A9";
 
-
+            // outputs the strings
             Console.WriteLine(someString);
             Console.WriteLine(path);
 
@@ -26,10 +35,10 @@ namespace ManyStrings
 
             string b = "abc" + x; 
 
-            Console.WriteLine(a); 
-            Console.WriteLine(b); 
+            Console.WriteLine($"{a} {b}"); 
+      
 
-            // interpolações
+            // interpolation
             Console.WriteLine($"O valor de e' {x}");
             Console.WriteLine($"{x} + {y} = {x+y}");
 
