@@ -4,7 +4,16 @@ namespace AskForInput
 {
     class Program
     {
-        static void Main(string[] args)
+  
+   
+        /// <summary>
+        ///  Simple program thas asks for an integer 
+        /// annd a real number, converts them to int and float
+        /// presents the sum of int with float
+        /// </summary>
+        /// <param name="args"></param> <summary>
+
+        private static void Main(string[] args)
         {
 
             // Request user input for an integer
