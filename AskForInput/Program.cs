@@ -18,6 +18,9 @@ namespace AskForInput
 
             // Read the input and convert to float
             float realInput = float.Parse(Console.ReadLine());
+
+            // print the result of the sum 
+            Console.WriteLine($"{intInput + realInput}");
         }
     }
 }

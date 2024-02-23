@@ -1,0 +1,15 @@
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\bin\Debug\net6.0\AskForInput.exe
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\bin\Debug\net6.0\AskForInput.deps.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\bin\Debug\net6.0\AskForInput.runtimeconfig.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\bin\Debug\net6.0\AskForInput.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\bin\Debug\net6.0\AskForInput.pdb
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\obj\Debug\net6.0\AskForInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\obj\Debug\net6.0\AskForInput.AssemblyInfoInputs.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\obj\Debug\net6.0\AskForInput.AssemblyInfo.cs
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\obj\Debug\net6.0\AskForInput.csproj.CoreCompileInputs.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\obj\Debug\net6.0\AskForInput.sourcelink.json
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\obj\Debug\net6.0\AskForInput.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\obj\Debug\net6.0\refint\AskForInput.dll
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\obj\Debug\net6.0\AskForInput.pdb
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\obj\Debug\net6.0\AskForInput.genruntimeconfig.cache
+D:\Projects\Exercises\Lp1\ExerciciosLP1\LP1Semana01\AskForInput\obj\Debug\net6.0\ref\AskForInput.dll
